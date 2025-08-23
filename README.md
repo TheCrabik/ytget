@@ -210,7 +210,7 @@ After that run:
 
 ```bash
 [user@localhost ~]$ cd /dir/of/script
-[user@localhost /dir/of/script]$ sudo Build.sh
+[user@localhost /dir/of/script]$ sudo ./Build.sh
 ```
 
 #### 4.1.3. Notes
