@@ -238,7 +238,7 @@ Now it is installed.
 In case program is not starting from binary try this. Install dependencies:
 
 ```txt
-yt_dlp, python-click.
+ffmpeg, yt_dlp, python-click.
 ```
 
 Remove .py in ytget.py.
@@ -256,6 +256,7 @@ Now it is installed.
 
 ### 4.4. Notes
 
+ffmpeg is **ESSENTIAL** for this program to work.
 Build variant is recommended. Other variants are for a backup.
 
 ## 5. Troubleshooting
@@ -301,7 +302,7 @@ cd ytget
 2. **Install dependencies**
 
 ```txt
-yt_dlp, Click, pyinstaller(recommended)
+ffmpeg, yt_dlp, Click, pyinstaller(recommended)
 ```
 
 ### 6.1.3 Project structure
