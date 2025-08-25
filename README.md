@@ -256,8 +256,8 @@ Now it is installed.
 
 ### 4.4. Notes
 
-ffmpeg is **ESSENTIAL** for this program to work.
-Build variant is recommended. Other variants are for a backup.
+- ffmpeg is **ESSENTIAL** for this program to work. In **every** variant!
+- Build variant is recommended. Other variants are for a backup.
 
 ## 5. Troubleshooting
 
@@ -272,7 +272,7 @@ Build variant is recommended. Other variants are for a backup.
 
 4. **Why it discards some of parsed URLs?**
    - Check for `&start_radio` tag. Script throws away URLs with this tag.
-   
+
 ## 6. For contributors
 
 Thank's you for your interest in development!
